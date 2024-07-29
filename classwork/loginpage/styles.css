@@ -4,6 +4,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     font-family: sans-serif;
+    margin: 0;
 }
 
 .redbar {
@@ -22,6 +23,10 @@ body {
     margin-left: 1100px;
 
     /* margin-right: 500px; */
+}
+
+#imagec{
+    margin-left: 1800px;
 }
 
 
